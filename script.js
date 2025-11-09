@@ -17,10 +17,10 @@
         // Función para copiar todos los datos
         function copyAllData() {
             const allData = `JORDAN MICHAEL MORALES ALARCON
-20435634
-Mercado Pago
+20.435.634-3
 Cuenta Vista
 1064651018
+Mercado Pago
 jmichael.morales23@gmail.com`;
 
             navigator.clipboard.writeText(allData).then(() => {
