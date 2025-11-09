@@ -16,8 +16,8 @@
 
         // Función para copiar todos los datos
         function copyAllData() {
-            const allData = `Jordan Michael Morales Alarcón
-204356343
+            const allData = `204356343
+Jordan Michael Morales Alarcón
 Mercado Pago
 Cuenta Vista
 1064651018
