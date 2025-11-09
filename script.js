@@ -16,12 +16,12 @@
 
         // Función para copiar todos los datos
         function copyAllData() {
-            const allData = `Nombre: Jordán Michael Morales Alarcón
-RUT: 204356343
-Banco: Mercado Pago
-Tipo de cuenta: Cuenta Vista
-Número de cuenta: 1064651018
-Correo: jmichael.morales23@gmail.com`;
+            const allData = `Jordan Michael Morales Alarcón
+                204356343
+                Mercado Pago
+                Cuenta Vista
+                1064651018
+                jmichael.morales23@gmail.com`;
 
             navigator.clipboard.writeText(allData).then(() => {
                 showNotification();
